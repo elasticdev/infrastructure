@@ -1,0 +1,10 @@
+desc: Create Google Cloud DB
+release: 1.0.1
+categories: 
+   - google
+tags:
+   - google
+   - cloud_db
+   - database
+   - infrastructure
+   - featured_infrastructure

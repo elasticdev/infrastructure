@@ -1,0 +1,12 @@
+desc: Deploy MongoDB Replica on AWS
+release: 1.0.1
+categories: 
+   - aws
+   - mongodb
+tags:
+   - aws
+   - mongodb
+   - replication
+   - cluster
+   - infrastructure
+   - featured_infrastructure

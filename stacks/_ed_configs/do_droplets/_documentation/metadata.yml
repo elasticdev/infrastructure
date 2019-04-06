@@ -1,0 +1,9 @@
+desc: Create Server Droplet on Digital Ocean
+release: 1.0.1
+categories: 
+   - digital_ocean
+tags:
+   - digital_ocean
+   - imaging
+   - infrastructure
+   - featured_infrastructure

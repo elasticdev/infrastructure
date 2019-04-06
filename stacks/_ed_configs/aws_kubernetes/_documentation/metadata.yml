@@ -1,0 +1,10 @@
+desc: Deploy Kubernetes Cluster on AWS
+release: 1.0.1
+categories: 
+   - aws
+   - kubernetes
+tags:
+   - aws
+   - kubernetes
+   - infrastructure
+   - featured_infrastructure
