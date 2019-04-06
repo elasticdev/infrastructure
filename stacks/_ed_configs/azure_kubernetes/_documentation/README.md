@@ -1,1 +1,1 @@
-# Deploy Kubernetes Cluser on Azure
+# Deploy Kubernetes Cluster on Azure
