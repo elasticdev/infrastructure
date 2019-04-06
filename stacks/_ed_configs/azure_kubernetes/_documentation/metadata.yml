@@ -1,0 +1,11 @@
+desc: Deploy Kubernetes Cluser on Azure
+release: 1.0.1
+categories: 
+   - azure
+   - kubernetes
+tags:
+   - azure
+   - kubernetes
+   - azure
+   - infrastructure
+   - featured_infrastructure
